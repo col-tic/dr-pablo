@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Dr. Pablo Vallejo</title>
+    <link>https://www.drpablovallejoyepes.com/</link>
+    <description>
+        
+           Ortopedista en Bogotá, especialista en cadera y rodilla con más de 12 años de experiencia.
+        
+    </description>
+    <language>es-CO</language>
+    <generator>Hugo</generator>
+    <lastBuildDate>Mon, 26 Jan 2026 08:49:23 -05</lastBuildDate>
+    <atom:link href="https://www.drpablovallejoyepes.com/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Cadera</title>
+        <link>https://www.drpablovallejoyepes.com/cadera/</link>
+        <guid>https://www.drpablovallejoyepes.com/cadera/</guid>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 UTC</pubDate>
+        <description>
+          
+            Tratamiento especializado en cadera con técnicas modernas y atención personalizada.
+          
+        </description>
+      </item>
+      <item>
+        <title>Perfil Profesional</title>
+        <link>https://www.drpablovallejoyepes.com/perfil/</link>
+        <guid>https://www.drpablovallejoyepes.com/perfil/</guid>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 UTC</pubDate>
+        <description>
+          
+            Dr. Pablo Vallejo, ortopedista especialista en cadera y rodilla en Bogotá. Más de 12 años de experiencia, formación internacional y atención médica personalizada.
+          
+        </description>
+      </item>
+      <item>
+        <title>Rodilla</title>
+        <link>https://www.drpablovallejoyepes.com/rodilla/</link>
+        <guid>https://www.drpablovallejoyepes.com/rodilla/</guid>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 UTC</pubDate>
+        <description>
+          
+            Diagnóstico y tratamiento especializado de lesiones y enfermedades de la rodilla. Cirugía avanzada, reemplazo articular y manejo integral del dolor.
+          
+        </description>
+      </item>
+  </channel>
+</rss>

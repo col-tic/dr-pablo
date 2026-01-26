@@ -1,0 +1,1 @@
+document.addEventListener("click",function(e){const t=e.target.closest(".question-card-title");if(!t)return;const n=t.closest(".question-card");n.classList.toggle("open")})
